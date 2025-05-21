@@ -6,8 +6,7 @@ public class checksetbit {
         int a=sc.nextInt();
         System.out.println("Enter the index value for checking : ");
         int b=sc.nextInt();
-        for(int i=0i<b;i++){
-            a=
+        for(int i=0;i<b;i++){
         }
     }
 }
