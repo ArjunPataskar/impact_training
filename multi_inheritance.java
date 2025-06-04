@@ -5,6 +5,7 @@ class Vehical{
         System.out.println("CC: 150CC");
     }
 }
+
 class Car extends Vehical{
     void Attributes(){
         System.out.println("Name: Honda City");
@@ -12,6 +13,7 @@ class Car extends Vehical{
         System.out.println("CC : 1500");
     }
 }
+
 class Electricvehical extends Car{
     void Feature(){
         System.out.println("Name: Tata Nexon EV");
